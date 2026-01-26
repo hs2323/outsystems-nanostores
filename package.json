@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hs2323/outsystems-nanostores#readme",
   "devDependencies": {
+    "@types/node": "^25.0.10",
     "typescript": "^5.9.3"
   }
 }
