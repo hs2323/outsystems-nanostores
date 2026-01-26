@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/hs2323/outsystems-nanostores/issues"
   },
-  "homepage": "https://github.com/hs2323/outsystems-nanostores#readme"
+  "homepage": "https://github.com/hs2323/outsystems-nanostores#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }
