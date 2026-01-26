@@ -20,6 +20,7 @@
   "homepage": "https://github.com/hs2323/outsystems-nanostores#readme",
   "devDependencies": {
     "@types/node": "^25.0.10",
+    "esbuild": "^0.27.2",
     "typescript": "^5.9.3"
   }
 }
