@@ -1,0 +1,30 @@
+{
+  "name": "outsystems-nanostores",
+  "version": "0.0.0",
+  "description": "Library to use Nano Stores in OutSystems",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild src/index.ts --bundle --minify --platform=browser --outfile=dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs2323/outsystems-nanostores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/hs2323/outsystems-nanostores/issues"
+  },
+  "homepage": "https://github.com/hs2323/outsystems-nanostores#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "esbuild": "^0.27.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "nanostores": "^1.1.0"
+  }
+}
