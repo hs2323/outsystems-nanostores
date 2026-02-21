@@ -8,4 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Added Nano Stores library with atom and map methods.
+- Exported Nano Stores subscribeKeys method.
+- Exported Nano Stores listenKeys method.
+- Exported Nano Stores map method.
+- Exported Nano Stores atom method.
+- Added Nano Stores library.
