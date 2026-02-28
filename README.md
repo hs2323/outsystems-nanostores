@@ -1,4 +1,4 @@
-# OutSystems Nano Stores
+# OutSystems Lightweight State Manager
 Library to use Nano Stores in OutSystems.
 
 This project is a script exporter for the [Nano Stores](https://github.com/nanostores/nanostores) library to import into [OutSystems](https://www.outsystems.com/).
