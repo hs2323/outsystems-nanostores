@@ -1,6 +1,6 @@
 {
   "name": "outsystems-nanostores",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Library to use Nano Stores in OutSystems",
   "main": "index.js",
   "scripts": {
