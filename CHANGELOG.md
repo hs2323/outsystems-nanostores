@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## Changed
+- Updated nanostores to 1.1.1.
+- Updated dependency esbuild to 0.27.3.
+- Updated dependency @types/node to 25.3.5.
+
 ## Fixed
 - Fixed CI build script.
 
